@@ -50,6 +50,8 @@
      <Compile Include="Assets\Assets\Scripts\HealthScript.cs" />
      <Compile Include="Assets\Assets\Scripts\MoveScript.cs" />
      <Compile Include="Assets\Assets\Scripts\PlayerScript.cs" />
+     <Compile Include="Assets\Assets\Scripts\RenderExtensions.cs" />
+     <Compile Include="Assets\Assets\Scripts\ScrollingScript.cs" />
      <Compile Include="Assets\Assets\Scripts\ShotScript.cs" />
      <Compile Include="Assets\Assets\Scripts\WeaponScript.cs" />
   </ItemGroup>

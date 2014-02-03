@@ -11,9 +11,9 @@ GameObject:
   - 212: {fileID: 21200000}
   - 61: {fileID: 6100000}
   - 50: {fileID: 5000000}
-  - 114: {fileID: 11400002}
   - 114: {fileID: 11400000}
   - 114: {fileID: 11400006}
+  - 114: {fileID: 11400002}
   m_Layer: 0
   m_Name: Poulpi
   m_TagString: Untagged
@@ -60,7 +60,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100000}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 24.7837276, y: -4.01618052, z: 0}
+  m_LocalPosition: {x: 17.3552399, y: 1.38874733, z: 0}
   m_LocalScale: {x: .400000006, y: .400000006, z: 1}
   m_Children:
   - {fileID: 400004}
@@ -138,7 +138,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96df79860018e416b9c86c1b7cf4e536, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: {x: 10, y: 10}
+  speed: {x: 2.5, y: 0}
   direction: {x: -1, y: 0}
 --- !u!114 &11400004
 MonoBehaviour:
